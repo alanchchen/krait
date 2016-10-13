@@ -1,0 +1,14 @@
+hash: 9ce5a4843df1fa26e2179ac4b35c55683969a79f63193c5109b61b00ec728def
+updated: 2016-10-14T07:55:34.90972641+08:00
+imports:
+- name: github.com/google/shlex
+  version: 6f45313302b9c56850fc17f99e40caebce98c716
+- name: github.com/inconshreveable/mousetrap
+  version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
+- name: github.com/spf13/cobra
+  version: ec2fe7859914a5106dcab4e7901633d959bfc2f4
+- name: github.com/spf13/pflag
+  version: bf8481a6aebc13a8aab52e699ffe2e79771f5a3f
+- name: gopkg.in/readline.v1
+  version: 62c6fe6193755f722b8b8788aa7357be55a50ff1
+testImports: []

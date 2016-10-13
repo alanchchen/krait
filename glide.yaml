@@ -1,0 +1,6 @@
+package: github.com/alanchchen/krait
+import:
+- package: github.com/google/shlex
+- package: github.com/spf13/cobra
+- package: gopkg.in/readline.v1
+  version: ~1.4.0
